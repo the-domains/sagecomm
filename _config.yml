@@ -2,6 +2,7 @@ name: sagecomm
 favicon: null
 layout_spectrum: 0.7886276983190328
 typography_spectrum: 0.528112119063735
+title: This is a test site
 cta:
   domain: null
   bucket: null
