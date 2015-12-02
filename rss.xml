@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[sagecomm]]></title>
         <description><![CDATA[sagecomm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sagecomm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 16:43:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Dec 2015 16:43:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sagecomm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is a test post]]></title>
             <description><![CDATA[<article><h1>This is a test post</h1><p>This is a test post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/743cfe18-9900-4096-8fb8-c7651c300749.jpg"></article>]]></description>
-            <link>undefinedthis-is-a-test-post/index.html</link>
+            <link>https://thegrid.ai/sagecomm/this-is-a-test-post/index.html</link>
             <guid isPermaLink="false">4e73f1d9-db2b-4667-bbfb-1cf110ce6ca7</guid>
             <pubDate>Wed, 02 Dec 2015 16:42:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/sagecomm/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">e7eb577b-2545-4d22-8e22-392b045d1ee0</guid>
+            <pubDate>Wed, 02 Dec 2015 16:43:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
