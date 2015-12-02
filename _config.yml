@@ -1,7 +1,7 @@
 name: sagecomm
 favicon: null
-layout_spectrum: 0.7886276983190328
-typography_spectrum: 0.528112119063735
+layout_spectrum: 1
+typography_spectrum: 0.75949
 title: This is a test site
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.3134177771862596
+    - '#ffffff'
+    - '#252b33'
+    - '#fe5e25'
+    - '#c9cacc'
+    - '#8c8f93'
+  brandStrength: 0.6875
   lightness: 0.18918029824271798
   saturation: 0.9455156077165157
   rhythmicContrast: 0.372764911968261
